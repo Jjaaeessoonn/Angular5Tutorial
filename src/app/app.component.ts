@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+// import Component decorator from @angular/core and use it to define a component, it's variables, selector name, html, css
+
+// export this component with given class name and variables
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
